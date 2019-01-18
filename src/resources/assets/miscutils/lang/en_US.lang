@@ -2025,7 +2025,7 @@ entity.Aboriginal.name=Native
 entity.miscutils.constructStaballoy.name=Staballoy Construct
 entity.miscutils.sickBlaze.name=Infected Zealot
 
-//Added 15/9/8
+//Added 15/9/18
 item.ZirconiumTetrafluoride.name=Zirconium Tetrafluoride Cell
 item.Formaldehyde.name=Formaldehyde Cell
 item.RocketFuelMixA.name=H8N4C2O4 Rocket Fuel Cell
@@ -2699,3 +2699,12 @@ item.particle.base.Lambda.name=Lambda
 item.particle.base.Omega.name=Omega
 item.particle.base.Pion.name=Pion
 item.particle.base.ETA Meson.name=ETA Meson
+
+//Added 12/1/19
+
+tile.playerDoorGlass.name=Glass Auto-Door
+tile.playerDoorCactus.name=Cactus Auto-Door
+tile.playerDoorIce.name=Ice Auto-Door
+tile.playerDoorIron.name=Iron Auto-Door
+tile.playerDoorWood.name=Wooden Auto-Door
+
